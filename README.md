@@ -1,6 +1,1 @@
-
-# Restful API using Spring Cloud
-
-- Exposing APIs at 
-/customers
-/accounts
+# Restful API using Spring Cloud - Microservices 
